@@ -14,7 +14,7 @@
 <br />
 
 <p align="center">
-   <img align="center" src="https://metrics.lecoq.io/notkkhuu" alt="haroldao"/> 
+   <img align="center" src="https://metrics.lecoq.io/notkkhuu" alt="notkkhuu"/> 
 </p>
 
 <details>
@@ -28,11 +28,11 @@
 ↙ Works only with my public repositories
 <p>
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notkkhuu&layout=default&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="haroldao" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notkkhuu&layout=default&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="notkkhuu" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=notkkhuu&show_icons=true&count_private=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="haroldao"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=notkkhuu&show_icons=true&count_private=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="notkkhuu"/>
 </p>
 Current Week stats
 <p>
